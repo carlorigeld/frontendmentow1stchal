@@ -22,10 +22,10 @@ html {
 
 body {
   background: #090b1a;
+  overflow: hidden;
 }
 
 .original {
-  min-height: 1000px;
   display: flex;
   justify-content: center;
   align-items: center;
